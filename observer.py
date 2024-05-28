@@ -5,7 +5,7 @@ from watchdog.observers import Observer
 from watchdog.events import FileSystemEventHandler
 
 # Set up logging
-logging.basicConfig(filename='./backups/file_events.log', level=logging.INFO,
+logging.basicConfig(filename='./data/backups/file_events.log', level=logging.INFO,
                     format='%(message)s')
 
 class FileHandler(FileSystemEventHandler):
@@ -35,7 +35,7 @@ class FileHandler(FileSystemEventHandler):
 
 if __name__ == "__main__":
     # Define the directory to watch
-    directory_to_watch = './myDir'
+    directory_to_watch = './data/myDir'
 
     # Create an event handler
     event_handler = FileHandler()

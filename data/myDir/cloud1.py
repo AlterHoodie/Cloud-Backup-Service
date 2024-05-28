@@ -1,0 +1,3 @@
+import js
+
+print('hi')

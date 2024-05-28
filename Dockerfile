@@ -5,8 +5,8 @@ FROM python:3.9
 WORKDIR /app
 
 # Copy the backup script into the container
-COPY backup_script.py /app/backup_script.py
-
+COPY /app/backup_script.py /app/backup_script.py
+COPY /app/util.py /app/util.py
 # Install any required dependencies for the backup script
 COPY requirements.txt /app/requirements.txt
 RUN pip install --no-cache-dir -r requirements.txt

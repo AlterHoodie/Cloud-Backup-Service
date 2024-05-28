@@ -1,0 +1,5 @@
+backup_2024-04-15-050218
+{"timestamp": "2024-04-15 10:31:18", "action": "created", "event_name": "created", "src_path": "./data/myDir\\Cloud\\assign.py\\assign.py", "is_directory": false}
+{"timestamp": "2024-04-15 10:31:18", "action": "modified", "event_name": "modified", "src_path": "./data/myDir\\Cloud\\assign.py", "is_directory": true}
+{"timestamp": "2024-04-15 10:31:22", "action": "modified", "event_name": "modified", "src_path": "./data/myDir\\Cloud\\assign.py\\assign.py", "is_directory": false}
+{"timestamp": "2024-04-15 10:31:22", "action": "modified", "event_name": "modified", "src_path": "./data/myDir\\Cloud\\assign.py\\assign.py", "is_directory": false}

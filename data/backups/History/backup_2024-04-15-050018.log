@@ -1,0 +1,9 @@
+backup_2024-04-15-050018
+{"timestamp": "2024-04-15 10:29:28", "action": "created", "event_name": "created", "src_path": "./data/myDir\\final", "is_directory": true}
+{"timestamp": "2024-04-15 10:29:36", "action": "created", "event_name": "created", "src_path": "./data/myDir\\final\\cloud", "is_directory": true}
+{"timestamp": "2024-04-15 10:29:37", "action": "modified", "event_name": "modified", "src_path": "./data/myDir\\final", "is_directory": true}
+{"timestamp": "2024-04-15 10:29:41", "action": "created", "event_name": "created", "src_path": "./data/myDir\\final\\cloud\\Dockerfile", "is_directory": false}
+{"timestamp": "2024-04-15 10:29:42", "action": "modified", "event_name": "modified", "src_path": "./data/myDir\\final\\cloud", "is_directory": true}
+{"timestamp": "2024-04-15 10:29:48", "action": "created", "event_name": "created", "src_path": "./data/myDir\\Cloud", "is_directory": true}
+{"timestamp": "2024-04-15 10:29:56", "action": "created", "event_name": "created", "src_path": "./data/myDir\\Cloud\\assign.py", "is_directory": true}
+{"timestamp": "2024-04-15 10:29:57", "action": "modified", "event_name": "modified", "src_path": "./data/myDir\\Cloud", "is_directory": true}
