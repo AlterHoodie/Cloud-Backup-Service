@@ -10,7 +10,7 @@ spec:
         spec:
           containers:
             - name: cc
-              image: alterhoodie/backup:latest
+              image: <Username>/backup:latest
               command: ["python"]
               args: ["backup_script.py"]
               volumeMounts:
